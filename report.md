@@ -34,11 +34,11 @@ By utilizing the Foursquare API, we were able to select Mexican restaurants loca
 
 This was achieved with following steps:
 
-1 - Create a dataframe from csv file (a list of 23 Tokyo wards)
-2 - Utilize Foursquare API to search for Mexican restaurants and create a new dataframe that contains the search results; sorting and filtering the results
-3 - Cluster the Tokyo's 23 wards by their most popular venues using K-means
-4 - Visualize and explore the clusters
-5 - Explore the Mexican restaurants in Tokyo with the Foursquare API
+- Create a dataframe from csv file (a list of 23 Tokyo wards)
+- Utilize Foursquare API to search for Mexican restaurants and create a new dataframe that contains the search results; sorting and filtering the results
+- Cluster the Tokyo's 23 wards by their most popular venues using K-means
+- Visualize and explore the clusters
+- Explore the Mexican restaurants in Tokyo with the Foursquare API
 
 
 
@@ -61,6 +61,7 @@ Exploring the Mexican restaurants resulted in the following:
 **5: Discussion**
 
 Business areas such as Chuo, Minato or Toshima, which accomodate lots of company offices, might sound like a good idea for starting a new dining venue. But at the same time, rent in these areas is also sky high. Opening a small restaurant might be a good option. Also, our client might consider other areas, which might not accomodate that many potential customers, but will be more cost-effective.
+
 We've also figured out that it might be a good business opportunity to open a Mexican venue in walking distance from the Olympic Stadium. Because Olympic Games are quite a short-lived event, our client might consider not a fully established restaurant, but a Mexican food truck or a temporary cafe instead.
 
 
@@ -68,7 +69,8 @@ We've also figured out that it might be a good business opportunity to open a Me
 **6: Consclusion**
 
 In conclusion, our client can consider the following options:
-1 - A fully-established Mexican restaurant: business areas with small or average number of competitors: Chuo, Minato, Toshima
-2 - Mexican food truck or temporary cafe: within the walking distance from 2020 Olympic Stadium, which will attract a lot of people during the Games. 
+- A fully-established Mexican restaurant: business areas with small or average number of competitors: Chuo, Minato, Toshima
+- Mexican food truck or temporary cafe: within the walking distance from 2020 Olympic Stadium, which will attract a lot of people during the Games. 
+
 However, these results are not absolute and need further research. We might need to research the wards which our client is shoving interest in, or get more information on possible competitors.
 
